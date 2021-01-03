@@ -40,10 +40,7 @@ function sweetTooth(totalNoOfSweets,sweetsConsumedByKaren,SweetsConsumedInNMeter
 //Trial 5:
 //As Lily moves closer, it gets colder. She checks the temperature on her mobile
 //It only shows in fahrenheit. Convert the data to celsius and return it.
-function convertToCelsius (fahrenheit) {
-    var ans = (fahrenheit - 32) * 5 / 9;
-    return ans
-}
+
 //Trial 6:
 //Lily can now do multiple things to deal with this
 //1. Take her daughter to a doctor 
